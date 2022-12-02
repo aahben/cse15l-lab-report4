@@ -40,7 +40,9 @@ Visual Studio Code: 63.43
 Vim (Remote) 76.82
 
 Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+
 At the moment, I would prefer working with vs code locally as I am still unfamiliarize with vim. However, I believe I should learn to how to use vim as it seems to be faster and more convinient and fast way in long term when proficient with. If I were to be proficient with utilizing vim, there are definetly a lot more shortcuts and I wouldn't have to use my mouse at all.
 
 What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
+
 Factors that may affect my decision may include the amount of files that I need access to and accessbility of the files. If there were to be only a few files that I need to make edits and I have access to them locally, I would prefer working on them with my local desktop. However, if the project or task involves in needing access to multiple files from multiple sources or workspaces I would prefer doing them remotely with vim to save time from copying file over and over again and easier to organize.
