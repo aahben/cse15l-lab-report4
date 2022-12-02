@@ -4,13 +4,13 @@
 Changing the name of the start parameter and its uses to base
 
 1. `vim TestDocSearch.java`
-2. Type `“/start”` to search for beginning character of “start”
-3. Type `D` and `E` to delete `“start”`
+2. Type `/start` to search for beginning character of “start”
+3. Type `D` and `E` to delete `start`
 4. `I` to enter insert mode 
-5. Type `“base”` in `“start”`’s place
+5. Type `base` in `start`’s place
 6. `Esc` to exit insert mode and back to normal mode
-7. Press `N` to go to next start 
-8. Repeat until all “start” of getFiles method are replaced by “base”
+7. Press `N` to go to next `start`
+8. Repeat until all “start” of getFiles method are replaced by `base`
 9. Type `:wq` to save and exit
 
 vim TestDocSearch.java
